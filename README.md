@@ -13,3 +13,9 @@ Machine learning projects on different specific topics such as: CNNs and compute
   - Used NLTK and vader
   - Used roberta hugging face model
   - Compared the models above + considerations on specific examples
+
+**3- Time Series Forecsting**  *- folder: /TimeSeriesForecasting*:
+  <br>Energy consumption forecasting based on Kaggle dataset
+  - Used XGBoost regressor
+  - Applied feature engineering, cross-validation and lag features
+  - Hyperparameter model tuning
